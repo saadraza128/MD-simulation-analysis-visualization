@@ -12,7 +12,7 @@ This script lets you merge plots and MD snapshot for movie making.
 You can run the code using 
 
 ```bash
-python convert-str-to-structure.py
+python merge-frame.py
 ```
 
 ---
